@@ -1,0 +1,209 @@
+
+@media(min-width:320px){
+    .bs{
+        margin-left: 10px;
+    }
+    .air{
+        text-transform: uppercase;
+        text-align: center;
+        margin-top: 50px;
+        font-size: 50px;
+        font-style: italic;
+    }
+    .img-1{
+        margin-top: -60px;
+        height: 10%;
+        width: 70%;
+    }
+    .bt-1{
+        margin-top: -40px;
+    }
+    .li{
+        background-color: #F2F4F6;
+        margin-top: 40px;
+    }
+    .li1{
+        margin-top: 30px;
+    }
+    .li3{
+        margin-top: 20px;
+        margin-left: 90px;
+    }
+    .li5{
+        font-size: 40px;
+        margin-left: 20px;
+    }
+    .li6{
+        margin-left: 20px;
+        font-size: 40px;
+        margin-top: 20px;
+    }
+    .sale{
+        margin-top: 100px;
+       }
+       .bg {
+        height: 600px;
+        background-image: url(../assets/images/cta-bg.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    .bg1 {
+        background-color: rgba(0, 0, 0, 0.418);
+        height: 600px;
+    }
+
+    .p {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .bg-2 {
+        height: 600px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .p1 {
+        font-size: 20px;
+    }
+
+    .p-1 {
+        font-size: 40px;
+    }
+
+    .bt-3 {
+        margin-top: 60px;
+        background-color: white;
+        margin-left: -10px;
+    }
+    .li-9{
+        text-decoration: none;
+        color: black;
+    }
+    .li-9:hover{
+        color: white;
+    }
+    .un2{
+        font-style: italic;
+    }
+}
+@media(min-width:768px){
+    .air{
+        font-size: 100px;
+      }
+      .img-1{
+        margin-top: -120px;
+      }
+      .bt-1{
+        margin-top: -60px;
+    }
+    .un2{
+        font-weight: bold;
+        font-size: 30px;
+        text-transform: uppercase;
+    }
+    .un3{
+        font-weight: bold;
+        font-size: 20px;
+        text-transform: uppercase;  
+    }
+    .ru{
+        margin-left: 40px;
+    }
+    .ru1{
+        margin-left: 30px;
+        margin-top: 20px;
+        font-weight: bold;
+    }
+    .ru2{
+        margin-left: 80px;
+        color: green;
+        font-weight: bold;
+    }
+    .ru3{
+        color: green;
+        font-weight: bold;
+    }
+    .ru4{
+        text-decoration: line-through;
+    }
+    .bu{
+        margin-top: 10px;
+        margin-left:110px;
+    }
+    .ru5{
+        margin-left: 130px;
+    }
+    .li1{
+        margin-top: 10px;
+    }
+    .li3{
+        margin-top: 10px;
+        margin-left: 90px;
+    }
+
+}
+@media(min-width:1199px){
+    .bs{
+        margin-left: 50px;
+    }
+    .air{
+        text-transform: uppercase;
+        text-align: center;
+        margin-top: 140px;
+        font-size: 110px;
+    }
+    .img{
+        margin-right: 100px;
+    }
+    .img-1{
+        margin-top: -210px;
+        height: 10%;
+    }
+    .bt-1{
+        margin-top: -90px;
+    }
+    .un2{
+        font-weight: bold;
+        font-size: 100px;
+        text-transform: uppercase;
+    }
+    .un3{
+        font-weight: bold;
+        font-size: 60px;
+        text-transform: uppercase;  
+    }
+    .li{
+        margin-top: 90px;
+     }
+     .li1{
+         margin-top: 160px;
+     }
+     .li3{
+         margin-left: 200px;
+     }
+     .sale{
+        margin-top: 200px;
+       }
+       .p1 {
+        font-size: 40px;
+    }
+
+    .p-1 {
+        font-size: 70px;
+    }
+
+    .bt-3 {
+        margin-top: 60px;
+        background-color: white;
+        margin-left: -50px;
+    }
+    .bg{
+        margin-top: 50px;
+    }
+}

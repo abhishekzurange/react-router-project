@@ -1,0 +1,68 @@
+
+
+@media(min-width:320px){
+    .ab{
+        height: 200px;
+    }
+    .qui{
+        margin-top: -30px;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .know{
+        color: rgb(235, 224, 224);
+        font-size: 50px;
+        font-weight: bold;
+    }
+    .us{
+        font-size: 30px;
+    }
+    .con{
+        margin-top: 90px;
+    }
+    .con1{
+        margin-bottom: 40px;
+    }
+}
+@media(min-width:768px) {
+    .ab-1{
+        margin-left: 60px;
+    }
+    .know{
+        font-size: 90px;
+    }
+    .us{
+        font-size: 40px;
+    }
+    .cart{
+        margin-top: 90px;
+    }
+    .qui{
+        margin-top: 20px;
+    }
+}
+@media(min-width:992px){
+    .know{
+        font-size: 200px;
+    }
+    .us{
+        font-size: 100px;
+    }
+    .ab{
+        height: 500px;
+    }
+    .qui{
+        font-size: 70px;
+        font-weight: bold;
+    }
+    .qui1{
+        margin-left: 20px;
+        
+    }
+    .cart{
+        margin-top: 70px;
+    }
+    .con{
+        margin-top: 110px;
+    }
+}

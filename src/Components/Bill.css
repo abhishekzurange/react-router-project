@@ -1,0 +1,36 @@
+@media(min-width:320px){
+    .ship{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .ship-1{
+        border: 1px solid black;
+        padding: 30px 30px 30px 30px;
+        border-radius: 3%;
+    }
+    .bil{
+        margin-top: 90px;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 60px;
+    }
+    .or{
+        text-decoration: none;
+        color: black;
+    }
+    .or:hover{
+        color: white;
+    }
+}
+
+
+
+@media(min-width:992px){
+    .ship{
+        width: 75%;
+        margin-top: 20px;
+    }
+    .ship2{
+        margin-top: 30px;
+    }
+}

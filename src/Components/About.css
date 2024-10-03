@@ -1,0 +1,74 @@
+
+
+@media(min-width:320px){
+    .ab{
+        height: 700px;
+        /* margin-top: 800px; */
+    }
+    .ab-1{
+        height: 500px;
+        margin-left: 30px;
+    }
+    .know1{
+        color: rgb(235, 224, 224);
+        font-size: 50px;
+        font-weight: bold;
+    }
+    .us1{
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .bl{
+        height: 500px;
+        background-image: url(../assets/images/sport-shoes-blue.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+   .bl1{
+    height: 360px;
+    margin-left: 40px;
+   }
+   .he{
+    font-size: 40px;
+    margin-bottom: 20px;
+   }
+}
+@media(min-width:768px){
+    .ab{
+        height: 200px;
+    }
+    .know1{
+        font-size: 90px;
+    }
+    .us1{
+        font-size: 50px;
+    }
+}
+@media(min-width:1199px){
+    
+    .ab{
+        height: 500px;
+    }
+    .ab-1{
+        height: 500px;
+        margin-left: 100px;
+    }
+    .know1{
+        font-size: 160px;
+    }
+    .us1{
+        font-size: 70px;
+    }
+    .bl1{
+        height: 360px;
+        margin-left: 40px;
+       }
+       .he{
+        font-size: 90px;
+        margin-bottom: 20px;
+       }
+       .img-4{
+        margin-top: 80px;
+       }
+}
